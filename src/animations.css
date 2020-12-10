@@ -1,0 +1,7 @@
+.fadeInLeft {
+    animation: fadeInLeft 5s linear infinite;
+}
+
+.fadeInDownBig {
+    animation: fadeInDownBig 5s linear infinite;
+}
